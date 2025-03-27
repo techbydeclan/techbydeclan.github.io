@@ -1,7 +1,6 @@
 img{
     width: 300px;
     height: 200px;
-    align: center;
 }
 iframe {
     width: 300px;
@@ -13,6 +12,10 @@ a{
 .special{
     display: inline;
     padding: 0px 10px 0px 10px;
+    font-family: "Tangerine", cursive;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 25px;
 }
 h1{
     font-family: "Quintessential", serif;
@@ -30,13 +33,12 @@ h2{
 }
 p{
     font-family: "Tangerine", cursive;
-  font-weight: 700;
+  font-weight: 1000;
   font-style: normal;
     max-width: 500px;
     padding: 20px;
     margin: 0 auto;
-    font-weight: 400;
-    font-size: larger;
+    font-size: 20px;
     color: black;
     text-align: center;
 }
@@ -73,4 +75,12 @@ body{
     background-size: cover;
     padding: 20px 0px 0px 0px;
     color: yellow;
+    font-family: "Tangerine", cursive;
+    font-style: normal;
+    font-size: large;
+ } 
+ a{
+    font-weight: bold;
+    font-size: larger;
  }
+
